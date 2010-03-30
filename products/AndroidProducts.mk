@@ -26,4 +26,4 @@
 # Change 'default' to match your theme name
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/cyanogen_theme_default.mk
+	$(LOCAL_DIR)/theme_default_cyanogen.mk

@@ -8,4 +8,4 @@
 # 
 #
 # Change 'default' to make your theme name.
-add_lunch_combo cyanogen_theme_default-eng
+add_lunch_combo theme_default_cyanogen-eng
